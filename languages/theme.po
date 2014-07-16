@@ -1,0 +1,553 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Carob Starter Theme\n"
+"POT-Creation-Date: 2014-07-15 13:48+0200\n"
+"PO-Revision-Date: 2014-07-15 13:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../theme/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:212
+#: ../theme/class-tgm-plugin-activation.php:1951
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:213
+#: ../theme/class-tgm-plugin-activation.php:1638
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:544
+#: ../theme/class-tgm-plugin-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1174
+msgid "Private Repository"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1185
+msgid "Required"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1185
+msgid "Recommended"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1188
+msgid "Not Installed"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1290
+#: ../theme/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1312
+#: ../theme/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1934
+msgid "Install package not available."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1935
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1938
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:1950
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:2064
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:2065
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:2065
+#: ../theme/class-tgm-plugin-activation.php:2074
+msgid "Show Details"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:2065
+#: ../theme/class-tgm-plugin-activation.php:2074
+msgid "Hide Details"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:2071
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:2074
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:2075
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../theme/class-tgm-plugin-activation.php:2076
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../theme/admin/class-carob-theme-admin.php:34
+msgid "All options will be set to default!"
+msgstr ""
+
+#: ../theme/admin/class-carob-theme-admin.php:57
+#: ../theme/admin/class-carob-theme-admin.php:58
+msgid "Theme Options"
+msgstr ""
+
+#: ../theme/admin/page-theme-options.php:9
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../theme/admin/page-theme-options.php:24
+msgid "Version: "
+msgstr ""
+
+#: ../theme/admin/page-theme-options.php:58
+msgid "Inactive Framework"
+msgstr ""
+
+#: ../theme/admin/page-theme-options.php:61
+msgid ""
+"In order to use the full power of this theme, please activate the Carob "
+"Framework plugin."
+msgstr ""
+
+#: ../theme/admin/page-theme-options.php:74
+msgid "Reset Theme Options"
+msgstr ""
+
+#: ../theme/admin/page-theme-options.php:75
+msgid "Save Theme Options"
+msgstr ""
+
+#: ../theme/includes/class-carob-theme-options.php:70
+msgid "No theme options for save."
+msgstr ""
+
+#: ../theme/includes/class-carob-theme-options.php:94
+msgid "All changes are saved!"
+msgstr ""
+
+#: ../theme/includes/class-carob-theme-options.php:124
+msgid "All theme options are set to their default values."
+msgstr ""
+
+#: ../theme/includes/class-carob-theme.php:68
+#, php-format
+msgid "There is no extension with %s as key."
+msgstr ""
+
+#: ../theme/includes/class-carob-theme.php:89
+#, php-format
+msgid "There is no variable in registry with %s as key."
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:14
+msgid "All Options"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:28
+msgid "All Standard Carob Framework Options (Heading)"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:30
+msgid "You can register your own!"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:36
+msgid "Select Image Option"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:38
+msgid "Select the blog layout:"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:47
+msgid "Text"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:49
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:59
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:70
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:81
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:95
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:109
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:125
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:136
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:151
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:161
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:171
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:185
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:196
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:206
+msgid "Description text:"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:57
+msgid "Textarea"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:68
+msgid "Checkbox"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:72
+msgid "Label text"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:79
+msgid "Radio"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:84
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:112
+msgid "One"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:85
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:113
+msgid "Two"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:93
+msgid "Select"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:98
+msgid "Option One"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:99
+msgid "Option Two"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:107
+msgid "Checkboxes"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:114
+msgid "Three"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:115
+msgid "Four"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:123
+msgid "Editor"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:134
+msgid "Slider Input"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:149
+msgid "Color Picker"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:159
+msgid "Switch Toggle"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:169
+msgid "File (in this case an image file)"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:175
+msgid "Select Image"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:183
+msgid "Gallery"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:187
+msgid "Select Images"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:194
+msgid "Icon Picker"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-all-options-meta-box.php:204
+msgid "Select Sidebar"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-page-layout-meta-box.php:14
+msgid "Page Layout"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-page-layout-meta-box.php:28
+msgid "Page Layout Options"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-page-layout-meta-box.php:30
+msgid "Change page layout options like sidebar position and more."
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-page-layout-meta-box.php:35
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-page-layout-meta-box.php:37
+msgid "Choose the sidebar position for this page:"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-page-layout-meta-box.php:45
+msgid "Sidebar"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-page-layout-meta-box.php:47
+msgid "Select the page sidebar from the list below:"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-portfolio-meta-box.php:14
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-portfolio-meta-box.php:23
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-portfolio-meta-box.php:25
+msgid "Select or upload the portfolio gallery slides:"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-portfolio-meta-box.php:27
+#: ../theme/theme-options/header-options.php:27
+msgid "Manage Slides"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-title-meta-box.php:14
+msgid "Title Options"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-title-meta-box.php:23
+msgid "Subtitle"
+msgstr ""
+
+#: ../theme/meta-boxes/class-carob-title-meta-box.php:25
+msgid "Enter here the page subtitle text:"
+msgstr ""
+
+#: ../theme/sidebars/theme-sidebars.php:16
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../theme/sidebars/theme-sidebars.php:17
+msgid "The blog sidebar."
+msgstr ""
+
+#: ../theme/theme-options/general-options.php:21
+msgid "General"
+msgstr ""
+
+#: ../theme/theme-options/general-options.php:23
+msgid "Here you can edit general theme settings."
+msgstr ""
+
+#: ../theme/theme-options/general-options.php:29
+msgid "Responsive Design"
+msgstr ""
+
+#: ../theme/theme-options/general-options.php:31
+msgid "Enable or disable the theme responsive design:"
+msgstr ""
+
+#: ../theme/theme-options/general-options.php:39
+msgid "Favicon"
+msgstr ""
+
+#: ../theme/theme-options/general-options.php:41
+msgid ""
+"Upload your website favicon image, 16px by 16px in png, gif or ico format:"
+msgstr ""
+
+#: ../theme/theme-options/general-options.php:45
+msgid "Select Favicon"
+msgstr ""
+
+#: ../theme/theme-options/general-options.php:53
+msgid "Footer Text"
+msgstr ""
+
+#: ../theme/theme-options/general-options.php:55
+msgid "Enter the text displayed in the footer:"
+msgstr ""
+
+#: ../theme/theme-options/header-options.php:15
+msgid "Header"
+msgstr ""
+
+#: ../theme/theme-options/header-options.php:17
+msgid "Here you can edit theme header related options."
+msgstr ""
+
+#: ../theme/theme-options/header-options.php:23
+msgid "Header Images"
+msgstr ""
+
+#: ../theme/theme-options/header-options.php:25
+msgid "Select or upload the header images:"
+msgstr ""
+
+#: ../theme/theme-options/other-options.php:15
+msgid "Other"
+msgstr ""
+
+#: ../theme/theme-options/other-options.php:17
+msgid "Miscellaneous theme options."
+msgstr ""
+
+#: ../theme/theme-options/other-options.php:23
+msgid "404 Page Title"
+msgstr ""
+
+#: ../theme/theme-options/other-options.php:25
+msgid "Enter here the 404 page title text:"
+msgstr ""
+
+#: ../theme/theme-options/other-options.php:33
+msgid "Some Icon"
+msgstr ""
+
+#: ../theme/theme-options/other-options.php:35
+msgid "Select an icon:"
+msgstr ""
